@@ -1,0 +1,25 @@
+register-item: 1
+register-item: duplicated item
+register-item: too cheap price
+register-item: 2
+request-sale: no such item
+request-sale: too expensive price
+request-sale: 1
+complete-sale: unauthorized operation
+complete-sale: ok
+request-sale: too cheap price
+request-sale: 2
+complete-sale: no such sale
+complete-sale: permission expired
+request-sale: 3
+delete-item: sales in progress
+update-item: sales in progress
+complete-sale: ok
+delete-item: no such item
+update-item: too cheap price
+update-item: ok
+delete-item: ok
+delete-item: no such item
+update-item: no such item
+get-margin-sellers: invalid time period
+get-margin-items: invalid time period

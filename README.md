@@ -1,7 +1,5 @@
 # Home Electronics Store Sales Management System
 
-A Python solution to a competitive programming problem from the **LINE Yahoo internship selection process**.
-
 The system simulates a sales management platform for a home electronics store,
 enforcing a configurable minimum profit margin (`rate`) on all discounted transactions.
 
