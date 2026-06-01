@@ -1,0 +1,22 @@
+register-item: 1
+register-item: 2
+request-sale: 1
+complete-sale: ok
+request-sale: 2
+complete-sale: ok
+request-sale: 3
+request-sale: 4
+complete-sale: ok
+complete-sale: ok
+request-sale: 5
+complete-sale: permission expired
+request-sale: 6
+complete-sale: ok
+delete-item: ok
+update-item: ok
+get-margin-sellers:
+1 Alice 0.176
+2 Bob 0.111
+get-margin-items:
+2 Fridge 0.231
+1 TV 0.135
